@@ -12,8 +12,3 @@ gem 'simplecov'
 
 # For Rails 3.
 gem 'test-unit', '~> 3.0'
-
-# Guard is a development dependency.
-group :development do
-  gem 'guard-rspec', '~> 4.5.0'
-end
